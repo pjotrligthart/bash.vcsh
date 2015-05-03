@@ -1,0 +1,8 @@
+*
+!/.bash_logout
+!/.bashrc
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/bash.vcsh
+!/.profile
